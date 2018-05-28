@@ -8,6 +8,6 @@
    
    **Concrete Terms:** Differential Privacy, Arbitrage Freeness, Privacy Loss, Privacy Compensation (Bottom-up and Top-down Designs)  
    
-3. **Three Aggregate Statistics:**
+3. **Aggregate Statistics:**
 
    Weighted Sum, Gaussian Distribution Fitting, Degree Distribution 
